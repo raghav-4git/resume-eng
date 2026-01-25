@@ -1,13 +1,20 @@
-# <span style="color:#000000;">RAGHAVENDRA MOTHKUR</span>
-### <span style="color:#2c3e50;">Global Technical Expert | Product Systems Owner | ADAS Specialist</span>
-
-<p align="left">
-  <code style="background-color:#2c3e50; color:white; vertical-align:middle; padding:3px 8px;">Plymouth, MI</code> &nbsp; 
-  <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; vertical-align:middle; padding:3px 8px;">raghav.mothkur@gmail.com</code></a> &nbsp; 
-  <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/in-RaghavendraMothkur-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:23px; vertical-align:middle;">
-  </a>
-</p>
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top; border:none;">
+      <h1 style="margin:0; color:#000000;">RAGHAVENDRA MOTHKUR</h1>
+      <h3 style="margin:5px 0; color:#2c3e50;">Global Technical Expert | Product Systems Owner | ADAS Specialist</h3>
+    </td>
+    <td style="vertical-align:top; border:none; text-align:right;">
+      <code style="background-color:#2c3e50; color:white; padding:2px 8px; display:inline-block; margin-bottom:4px;">Plymouth, MI, USA</code><br>
+      <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; display:inline-block; margin-bottom:4px;">+1 734-578-2295</code><br>
+      <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; display:inline-block; margin-bottom:4px;">+91 97911-86099</code><br>
+      <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; display:inline-block; margin-bottom:4px;">raghav.mothkur@gmail.com</code></a><br>
+      <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/in-RaghavendraMothkur-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px; vertical-align:middle;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,5 +85,5 @@
 
 ## <span style="color:#1a237e;">█</span> PREFERRED LOCATIONS
 <p align="left">
-  <code style="color:#1a237e;"><b>REGIONS:</b></code> USA | Canada |Germany | United Kingdom | Australia | New Zealand
+  <code style="color:#1a237e;"><b>REGIONS:</b></code> USA | Canada | Germany | United Kingdom | Australia | New Zealand
 </p>
