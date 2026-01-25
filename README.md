@@ -1,8 +1,8 @@
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top; border:none; width: 60%;">
+    <td style="vertical-align:top; border:none; width: 70%;">
       <h1 style="margin:0; color:#000000;">RAGHAVENDRA MOTHKUR</h1>
-      <h3 style="margin:5px 0; color:#2c3e50;">Global Technical Expert | Product Systems Owner | ADAS Specialist</h3>
+      <h3 style="margin:5px 0; color:#2c3e50; white-space:nowrap;">Global Technical Expert | Product Systems Owner | ADAS Specialist</h3>
       <p align="left" style="margin-top:10px;">
         <code style="background-color:#2c3e50; color:white; vertical-align:middle; padding:3px 8px;">Plymouth, MI</code> &nbsp; 
         <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; vertical-align:middle; padding:3px 8px; cursor:pointer;">raghav.mothkur@gmail.com</code></a> &nbsp; 
@@ -11,7 +11,7 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align:top; border:none; text-align:right; width: 40%; padding-top:10px;">
+    <td style="vertical-align:top; border:none; text-align:right; width: 30%; padding-top:10px;">
       <span style="color:#2c3e50; font-size:1.1em;">📱</span> <a href="tel:+17345782295" style="text-decoration:none;"><code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; cursor:pointer;">+1 734-578-2295</code></a><br>
       <span style="color:#2c3e50; font-size:1.1em;">📱</span> <a href="tel:+919791186099" style="text-decoration:none;"><code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; margin-top:5px; display:inline-block; cursor:pointer;">+91 97911-86099</code></a>
     </td>
@@ -52,7 +52,7 @@
 
 ## <span style="color:#1a237e;">█</span> PROFESSIONAL EXPERIENCE
 
-### **Robert Bosch LLC | Plymouth, MI**
+### **Robert Bosch LLC | Plymouth, MI, USA**
 **Technical Expert – Honda North America** | *April 2024 – Present*
 * **Strategic Technical Liaison:** Single point of contact for Honda NA; providing high-level technical governance and root-cause analysis.
 * **Architecture Alignment:** Translated vehicle-level behavioral requirements into definitive technical specifications, optimizing development efficiency by **30%**.
