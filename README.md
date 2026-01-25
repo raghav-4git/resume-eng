@@ -3,8 +3,10 @@
 
 <p align="left">
   <code style="background-color:#2c3e50; color:white;">&nbsp;Plymouth, MI&nbsp;</code> &nbsp; 
-  <code style="background-color:#1a237e; color:white;">&nbsp;raghav.mothkur@gmail.com&nbsp;</code> &nbsp; 
-  <code style="background-color:#2c3e50; color:white;">&nbsp;LinkedIn Profile&nbsp;</code>
+  <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; cursor:pointer;">&nbsp;raghav.mothkur@gmail.com&nbsp;</code></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-%20RaghavendraMothkur-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" vertical-align="middle">
+  </a>
 </p>
 
 ---
