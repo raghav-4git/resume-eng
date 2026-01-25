@@ -5,7 +5,7 @@
       <h3 style="margin:5px 0; color:#2c3e50; font-size: 1.1em; letter-spacing: 0.5px;">
         Global Strategic Product Leader | Technical Expert: ADAS & EPS System-Software
       </h3>
-      <p align="left" style="margin-top:15px;">
+      <p align="left" style="margin-top:15px; white-space:nowrap;">
         <code style="background-color:#2c3e50; color:white; vertical-align:middle; padding:4px 10px;">Plymouth, MI, USA</code> &nbsp; 
         <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; vertical-align:middle; padding:4px 10px; cursor:pointer;">raghav.mothkur@gmail.com</code></a> &nbsp; 
         <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
@@ -24,7 +24,7 @@
 
 ## <span style="color:#1a237e;">█</span> EXECUTIVE PROFILE
 <blockquote style="border-left: 6px solid #1a237e; background-color: #f8f9fa; padding: 20px; font-size: 1.1em;">
-<span style="color:#000000;"><b>Visionary Automotive Engineering Leader</b> with 11+ years of decisive experience at <b>Robert Bosch</b>. A recognized authority in <b>EPS Control Logic</b> and <b>ADAS</b>, specializing in bridging the gap between deep R&D and global commercial deployment. Proven track record of architecting safety-critical systems from "zero-to-one," securing multi-million dollar business acquisitions, and serving as the <b>Strategic Global Face of Software</b> for world-class OEMs including Honda, Toyota, and Nissan.</span>
+<span style="color:#000000;"><b>Strategic Global Engineering Leader</b> with 11+ years of technical excellence at <b>Robert Bosch</b>. A recognized authority in <b>EPS Control Logic</b> and <b>ADAS</b>, specialized in bridging the gap between deep R&D and global commercial deployment. Proven track record of architecting safety-critical systems from "zero-to-one," securing multi-million dollar business acquisitions, and serving as the <b>Strategic Global Face of Software</b> for world-class OEMs including Honda, Toyota, and Nissan.</span>
 </blockquote>
 
 ---
