@@ -1,6 +1,6 @@
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top; border:none;">
+    <td style="vertical-align:top; border:none; width: 60%;">
       <h1 style="margin:0; color:#000000;">RAGHAVENDRA MOTHKUR</h1>
       <h3 style="margin:5px 0; color:#2c3e50;">Global Technical Expert | Product Systems Owner | ADAS Specialist</h3>
       <p align="left" style="margin-top:10px;">
@@ -11,9 +11,9 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align:top; border:none; text-align:right; padding-top:10px;">
-      <span style="color:#2c3e50; font-size:1.2em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0;">+1 734-578-2295</code><br>
-      <span style="color:#2c3e50; font-size:1.2em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; margin-top:4px; display:inline-block;">+91 97911-86099</code>
+    <td style="vertical-align:top; border:none; text-align:right; width: 40%; padding-top:10px;">
+      <span style="color:#2c3e50; font-size:1.1em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0;">+1 734-578-2295</code><br>
+      <span style="color:#2c3e50; font-size:1.1em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; margin-top:5px; display:inline-block;">+91 97911-86099</code>
     </td>
   </tr>
 </table>
