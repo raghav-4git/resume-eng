@@ -1,8 +1,10 @@
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top; border:none; width: 65%;">
-      <h1 style="margin:0; color:#000000; font-size: 2.5em;">RAGHAVENDRA MOTHKUR</h1>
-      <h3 style="margin:5px 0; color:#2c3e50; white-space:nowrap; letter-spacing: 1px;">Global Technical Expert | Product Systems Owner | ADAS Specialist</h3>
+    <td style="vertical-align:top; border:none; width: 60%;">
+      <h1 style="margin:0; color:#000000; font-size: 2.4em;">RAGHAVENDRA MOTHKUR</h1>
+      <h3 style="margin:5px 0; color:#2c3e50; font-size: 1.1em; letter-spacing: 0.5px;">
+        Global Strategic Product Leader | Technical Expert: ADAS & EPS System-Software
+      </h3>
       <p align="left" style="margin-top:15px;">
         <code style="background-color:#2c3e50; color:white; vertical-align:middle; padding:4px 10px;">Plymouth, MI, USA</code> &nbsp; 
         <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; vertical-align:middle; padding:4px 10px; cursor:pointer;">raghav.mothkur@gmail.com</code></a> &nbsp; 
@@ -11,7 +13,7 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align:top; border:none; text-align:right; width: 35%; padding-top:15px;">
+    <td style="vertical-align:top; border:none; text-align:right; width: 40%; padding-top:15px;">
       <a href="tel:+17345782295" style="text-decoration:none;"><span style="color:#2c3e50; font-size:1.2em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; cursor:pointer; font-size: 1.1em;">+1 734-578-2295</code></a><br>
       <a href="tel:+919791186099" style="text-decoration:none;"><span style="color:#2c3e50; font-size:1.2em;">📱</span> <code style="background-color:#f8f9fa; color:#2c3e50; border:1px solid #e0e0e0; margin-top:8px; display:inline-block; cursor:pointer; font-size: 1.1em;">+91 97911-86099</code></a>
     </td>
@@ -22,7 +24,7 @@
 
 ## <span style="color:#1a237e;">█</span> EXECUTIVE PROFILE
 <blockquote style="border-left: 6px solid #1a237e; background-color: #f8f9fa; padding: 20px; font-size: 1.1em;">
-<span style="color:#000000;"><b>Visionary Automotive Technical Leader</b> with 11+ years of high-stakes experience at <b>Robert Bosch</b>. A specialist in <b>EPS Control Logic</b> and <b>ADAS</b>, recognized for bridging the gap between deep R&D and global commercial success. Proven track record of architecting safety-critical systems from "zero-to-one," securing multi-million dollar business acquisitions, and serving as the <b>strategic global face</b> for world-class OEMs like Honda and Toyota.</span>
+<span style="color:#000000;"><b>Visionary Automotive Engineering Leader</b> with 11+ years of decisive experience at <b>Robert Bosch</b>. A recognized authority in <b>EPS Control Logic</b> and <b>ADAS</b>, specializing in bridging the gap between deep R&D and global commercial deployment. Proven track record of architecting safety-critical systems from "zero-to-one," securing multi-million dollar business acquisitions, and serving as the <b>Strategic Global Face of Software</b> for world-class OEMs including Honda, Toyota, and Nissan.</span>
 </blockquote>
 
 ---
@@ -32,27 +34,27 @@
 ### **Robert Bosch LLC | Plymouth, MI, USA**
 **Technical Expert – Global Face of Bosch SW for Honda NA** | *April 2024 – Present*
 
-* **Strategic Global Governance:** Serve as the definitive **"Face of Bosch SW"** for Honda North America. Command multi-national stakeholder management to synchronize high-complexity software roadmaps with OEM strategic milestones.
-* **End-to-End System Interface:** Orchestrate critical technical communication and synchronization between **Software R&D, System Design, EPS Gear Production Plants, and Vehicle Validation teams**.
-* **Operational & Fiscal Excellence:** Directed international regional operations with elite efficiency, significantly reducing overhead and operational costs while simultaneously enhancing global product quality.
-* **High-Stakes Problem Solving:** Lead critical troubleshooting initiatives to protect product development timelines, ensuring robust quality and cost-efficiency.
-* **Customer Relationship Transformation:** Revolutionized the Bosch-Honda partnership by identifying and addressing both explicit and implicit needs with extreme speed.
+* **Strategic Global Governance:** Serve as the definitive **"Face of Bosch SW"** for Honda North America. Command multi-national stakeholder management to align high-complexity software roadmaps with OEM strategic milestones.
+* **End-to-End System Interface:** Orchestrate critical technical synchronizations between **Software R&D, System Design, EPS Gear Production Plants, and Vehicle Validation teams**.
+* **Operational & Fiscal Excellence:** Directed international regional operations with elite efficiency, significantly reducing overhead and operational costs while simultaneously enhancing global product quality and delivery speed.
+* **High-Stakes Problem Solving:** Lead critical troubleshooting and root-cause analysis to protect product development timelines, ensuring robust quality and cost-efficiency.
+* **Customer Experience Leadership:** Revolutionized the Bosch-Honda partnership by identifying and addressing both explicit and implicit OEM needs with extreme responsiveness.
 * **Elite Recognition:** Earned **consecutive special mentions** in year-end feedback for exceptional customer experience and technical diplomacy.
 
 ### **Robert Bosch Automotive Steering | Japan & India**
 **Product Owner & Lead, Application Development** | *2017 – 2024*
 
-* **Toyota Leadership & Innovation (2021–2023):** Dual-tracked role as **Product Owner and Team Lead**. Engineered a breakthrough specialized software for **System Validation** to define target system responses for steering gear—capturing significant attention and commendation from Toyota leadership.
+* **Toyota Leadership & Innovation (2021–2023):** Dual-tracked role as **Product Owner and Team Lead**. Engineered a breakthrough specialized software for **System Validation** to define target system responses for steering gear—a technical feat that earned direct commendation from Toyota leadership.
 * **Nissan Strategic Growth (2019):** Spearheaded the technical side of **Project Acquisition**. Led requirement discussion and freezing, successfully securing a major new business unit for Bosch. Directed multi-national Application Development teams across **India, Vietnam, and Japan**.
 * **Toyota R&D (Germany Assignment):** Stationed in **Schwäbisch Gmünd (2017–2018)** for an intensive R&D tenure. **Architected Toyota’s EPS control logic from scratch**, leading the complete lifecycle of architecture design, calibration, and vehicle-level validation.
-* **Continuous X Innovation:** Engineered and deployed a pioneering **"Slicing Approach"** for SW development, bringing Agile modularity and Continuous Integration to the Bosch Steering world.
-* **Presidential Recognition:** Formally recognized by the **President of Robert Bosch Automotive Steering, Germany**, for this revolutionary contribution to development strategy.
+* **Continuous X Innovation:** Engineered and deployed a pioneering **"Slicing Approach"** for SW development, introducing Agile modularity and Continuous Integration to the Bosch Steering global ecosystem.
+* **Presidential Recognition:** Formally recognized by the **President of Robert Bosch Automotive Steering, Germany**, for this revolutionary contribution to global development strategy.
 
 ### **Robert Bosch | India & Vietnam**
 **Global SW Test Lead & EPS Specialist** | *2011 – 2017*
 
 * **Validation Architecture:** Spearheaded **Software-In-the-Loop (SiL)** validation frameworks for complete EPS software and customer-specific applications for **Honda, Toyota, and Nissan** programs.
-* **Germany Deployment (2017):** Stationed in **Schwäbisch Gmünd** to engineer and deploy the advanced steering software validation environment for Honda programs.
+* **Germany Deployment (2017):** Stationed in **Schwäbisch Gmünd** to engineer and deploy the advanced steering software validation environment for Honda-specific programs.
 * **Global Leadership:** Orchestrated multi-national test teams ensuring 100% compliance with **ISO 26262** and **ASPICE** safety standards.
 
 ---
@@ -77,6 +79,12 @@
     <td style="padding: 12px 0; color: #34495e;">Technical Diplomacy, Business Acquisition, Product Ownership (PO), Global Team Governance, Fiscal Optimization</td>
   </tr>
 </table>
+
+---
+
+## <span style="color:#1a237e;">█</span> EDUCATION
+* **B.Tech in Electrical and Electronics Engineering**
+  *SASTRA University, Thanjavur, India*
 
 ---
 
