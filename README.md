@@ -1,23 +1,13 @@
 # <span style="color:#000000;">RAGHAVENDRA MOTHKUR</span>
 ### <span style="color:#2c3e50;">Global Technical Expert | Product Systems Owner | ADAS Specialist</span>
 
-<table style="border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td style="border:none; padding: 0 10px 0 0;">
-      <code style="background-color:#2c3e50; color:white; display:inline-block; padding: 2px 8px;">Plymouth, MI</code>
-    </td>
-    <td style="border:none; padding: 0 10px 0 0;">
-      <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;">
-        <code style="background-color:#1a237e; color:white; display:inline-block; padding: 2px 8px;">raghav.mothkur@gmail.com</code>
-      </a>
-    </td>
-    <td style="border:none; padding: 0;">
-      <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/in-RaghavendraMothkur-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; height:24px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <code style="background-color:#2c3e50; color:white; vertical-align:middle; padding:3px 8px;">Plymouth, MI</code> &nbsp; 
+  <a href="mailto:raghav.mothkur@gmail.com" style="text-decoration:none;"><code style="background-color:#1a237e; color:white; vertical-align:middle; padding:3px 8px;">raghav.mothkur@gmail.com</code></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/raghavendra-mothkur" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/in-RaghavendraMothkur-2c3e50?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:23px; vertical-align:middle;">
+  </a>
+</p>
 
 ---
 
