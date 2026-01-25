@@ -78,5 +78,5 @@
 
 ## <span style="color:#1a237e;">█</span> PREFERRED LOCATIONS
 <p align="left">
-  <code style="color:#1a237e;"><b>REGIONS:</b></code> Germany | United Kingdom | Australia | New Zealand
+  <code style="color:#1a237e;"><b>REGIONS:</b></code> USA | Canada |Germany | United Kingdom | Australia | New Zealand
 </p>
