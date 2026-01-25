@@ -27,61 +27,44 @@
 
 ---
 
+## <span style="color:#1a237e;">█</span> PROFESSIONAL EXPERIENCE
+
+### **Robert Bosch LLC | Plymouth, MI, USA**
+**Technical Expert – Honda North America** | *April 2024 – Present*
+* **Strategic Technical Liaison:** Primary engineering interface for Honda NA; driving high-level governance and root-cause analysis for EPS/ADAS vehicle integration.
+* **Architecture Alignment:** Orchestrated the translation of vehicle behavioral requirements into definitive technical specs, increasing development efficiency by **30%**.
+
+### **Robert Bosch Automotive Steering | Japan & India**
+**Product Owner & Lead, Application Development** | *2017 – 2024*
+* **Toyota R&D (Germany):** Stationed in **Schwäbisch Gmünd (2017–2018)** for an intensive R&D assignment. Architected Toyota’s EPS control logic from scratch, leading the end-to-end delivery of architecture design, calibration, and vehicle validation.
+* **Nissan Strategic Growth (2019):** Spearheaded **Project Acquisition** and requirement freezing for Nissan, successfully securing and onboarding a major new business unit for Bosch. Directed multi-national Application Development teams across **India, Vietnam, and Japan**.
+* **Toyota Program Leadership (2021–2023):** Served as **Product Owner and Team Lead**, dual-tracking technical architecture and people management. Led cross-functional teams to deliver complex application software for Toyota global platforms.
+* **Global Team Governance:** Managed the end-to-end SDLC for high-priority JOEM programs, ensuring seamless integration between technical requirements and customer delivery.
+
+### **Robert Bosch | India & Vietnam**
+**Global SW Test Lead & EPS Specialist** | *2011 – 2017*
+* **Validation Architecture:** Spearheaded **Software-In-the-Loop (SiL)** frameworks for complete EPS software and customer-specific applications for **Honda, Toyota, and Nissan** programs.
+* **Germany Assignment (2017):** Deployed the advanced steering validation environment for Honda-specific programs in **Schwäbisch Gmünd**.
+* **Global Leadership:** Managed distributed test teams ensuring 100% compliance with ISO 26262 safety standards.
+
+---
+
 ## <span style="color:#1a237e;">█</span> CORE COMPETENCIES & TECH STACK
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; vertical-align: top; width: 30%;"><b>SYSTEM DOMAINS</b></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">Electric Power Steering (EPS), ADAS (LKA, TJA, Auto Parking), Fail-Operational Systems</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; vertical-align: top;"><b>COMPLIANCE</b></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">ISO 26262 (Functional Safety), ASPICE Level 2/3, OEM-Specific Standards</td>
+    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">EPS Architecture, ADAS (LKA, TJA), Project Acquisition, Fail-Operational Systems</td>
   </tr>
   <tr>
     <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; vertical-align: top;"><b>ENGINEERING TOOLS</b></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">Vector CANoe/CANalyzer, MATLAB, Simulink, IBM DOORS, JIRA, INCA, GIT</td>
+    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">Vector CANoe/CANalyzer, MATLAB, Simulink, IBM DOORS, JIRA, INCA</td>
   </tr>
   <tr>
     <td style="padding: 10px 0; vertical-align: top;"><b>LEADERSHIP</b></td>
-    <td style="padding: 10px 0; color: #34495e;">Agile Product Ownership, Global Stakeholder Management, Crisis Resolution</td>
+    <td style="padding: 10px 0; color: #34495e;">Agile Product Ownership (PO), Business Acquisition, Global Team Management</td>
   </tr>
 </table>
-
----
-
-## <span style="color:#1a237e;">█</span> PROFESSIONAL EXPERIENCE
-
-### **Robert Bosch LLC | Plymouth, MI, USA**
-**Technical Expert – Honda North America** | *April 2024 – Present*
-* **Strategic Technical Liaison:** Single point of contact for Honda NA; providing high-level technical governance and root-cause analysis.
-* **Architecture Alignment:** Translated vehicle-level behavioral requirements into definitive technical specifications, optimizing development efficiency by **30%**.
-* **Critical Operations:** Directed on-site technical resolution at Honda Manufacturing Centers to secure production stability.
-* **Honors:** Recipient of the <b>Customer Excellence Award (2024)</b> from Honda North America leadership.
-
-### **Robert Bosch Automotive Steering | Japan & India**
-**Product Owner & Lead, Application Development** | *2018 – 2024*
-* **Japan Strategic Assignment (2023):** Governed the product backlog and technical roadmap for major Japanese OEM projects while stationed in Japan.
-* **Integrity & Compliance:** Directed software development lifecycles to meet rigorous <b>ISO 26262</b> safety mandates.
-
-### **Robert Bosch | Germany, India & Vietnam**
-**Global SW Test Lead & EPS Specialist** | *2011 – 2018*
-* **Global Leadership:** Managed JOEM Software Test operations across India and Vietnam hubs.
-* **Germany R&D:** Selected for high-impact assignments at <b>Abstatt and Renningen</b> (2015, 2017-2018) for global market steering logic development.
-
----
-
-## <span style="color:#1a237e;">█</span> GLOBAL LANGUAGES
-* **English** — Professional Fluency
-* **Tamil & Telugu** — Native Proficiency
-* **German** — A1 Level
-* **Japanese** — Basic Conversational
-
----
-
-## <span style="color:#1a237e;">█</span> EDUCATION
-* **B.Tech in Electrical and Electronics Engineering**
-  *SASTRA University, Thanjavur, India*
 
 ---
 
