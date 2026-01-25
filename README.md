@@ -4,14 +4,14 @@
 <p align="left">
   <code style="background-color:#2c3e50; color:white;">&nbsp;Plymouth, MI&nbsp;</code> &nbsp; 
   <code style="background-color:#1a237e; color:white;">&nbsp;raghav.mothkur@gmail.com&nbsp;</code> &nbsp; 
-  <code style="background-color:#1a237e; color:white;">&nbsp;LinkedIn Profile&nbsp;</code>
+  <code style="background-color:#2c3e50; color:white;">&nbsp;LinkedIn Profile&nbsp;</code>
 </p>
 
 ---
 
 ## <span style="color:#1a237e;">█</span> EXECUTIVE PROFILE
 <blockquote style="border-left: 5px solid #1a237e; background-color: #f8f9fa; padding: 15px;">
-<b>Global Automotive Technical Expert</b> with 11+ years of decisive leadership at <b>Robert Bosch</b>. Specialist in <b>Electric Power Steering (EPS)</b> and <b>ADAS</b> architectures. Currently serving as the <b>Primary Engineering Interface for Honda North America</b>, orchestrating the technical bridge between OEM requirements and global software ecosystems.
+<span style="color:#000000;"><b>Global Automotive Technical Expert</b> with 11+ years of decisive leadership at <b>Robert Bosch</b>. Specialist in <b>Electric Power Steering (EPS)</b> and <b>ADAS</b> architectures. Currently serving as the <b>Primary Engineering Interface for Honda North America</b>, orchestrating the technical bridge between OEM requirements and global software ecosystems.</span>
 </blockquote>
 
 ---
