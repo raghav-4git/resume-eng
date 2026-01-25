@@ -36,16 +36,15 @@
 
 ### **Robert Bosch Automotive Steering | Japan & India**
 **Product Owner & Lead, Application Development** | *2017 – 2024*
-* **Toyota R&D (Germany):** Stationed in **Schwäbisch Gmünd (2017–2018)** for an intensive R&D assignment. Architected Toyota’s EPS control logic from scratch, leading the end-to-end delivery of architecture design, calibration, and vehicle validation.
-* **Nissan Strategic Growth (2019):** Spearheaded **Project Acquisition** and requirement freezing for Nissan, successfully securing and onboarding a major new business unit for Bosch. Directed multi-national Application Development teams across **India, Vietnam, and Japan**.
-* **Toyota Program Leadership (2021–2023):** Served as **Product Owner and Team Lead**, dual-tracking technical architecture and people management. Led cross-functional teams to deliver complex application software for Toyota global platforms.
-* **Global Team Governance:** Managed the end-to-end SDLC for high-priority JOEM programs, ensuring seamless integration between technical requirements and customer delivery.
+* **Toyota Leadership & Innovation (2021–2023):** Dual-tracked technical architecture and team management. Engineered specialized software for **System Validation** to define target system responses to the steering gear—a breakthrough that earned high-level commendation from Toyota leadership.
+* **Toyota R&D (Germany):** Stationed in **Schwäbisch Gmünd (2017–2018)**. Architected Toyota’s EPS control logic from scratch, leading the delivery of architecture design, calibration, and vehicle validation.
+* **Nissan Strategic Growth (2019):** Spearheaded **Project Acquisition** and requirement freezing. Successfully onboarded a major new business unit and directed multi-national teams across India, Vietnam, and Japan.
+* **Strategic Innovation (Continuous X):** Engineered a pioneering **"Slicing Approach"** for SW development, introducing Agile modularity and continuous integration to the Bosch Steering world. Formally recognized by the **President of Robert Bosch Automotive Steering, Germany**.
 
 ### **Robert Bosch | India & Vietnam**
 **Global SW Test Lead & EPS Specialist** | *2011 – 2017*
-* **Validation Architecture:** Spearheaded **Software-In-the-Loop (SiL)** frameworks for complete EPS software and customer-specific applications for **Honda, Toyota, and Nissan** programs.
-* **Germany Assignment (2017):** Deployed the advanced steering validation environment for Honda-specific programs in **Schwäbisch Gmünd**.
-* **Global Leadership:** Managed distributed test teams ensuring 100% compliance with ISO 26262 safety standards.
+* **Validation Architecture:** Spearheaded **SiL** frameworks for complete EPS software and applications for **Honda, Toyota, and Nissan**.
+* **Germany Assignment (2017):** Deployed the advanced steering validation environment for Honda in **Schwäbisch Gmünd**.
 
 ---
 
@@ -54,7 +53,7 @@
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; vertical-align: top; width: 30%;"><b>SYSTEM DOMAINS</b></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">EPS Architecture, ADAS (LKA, TJA), Project Acquisition, Fail-Operational Systems</td>
+    <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; color: #34495e;">EPS Control Logic, ADAS (LKA/TJA), Target System Response, Agile Slicing</td>
   </tr>
   <tr>
     <td style="padding: 10px 0; border-bottom: 1px solid #e0e0e0; vertical-align: top;"><b>ENGINEERING TOOLS</b></td>
@@ -62,7 +61,7 @@
   </tr>
   <tr>
     <td style="padding: 10px 0; vertical-align: top;"><b>LEADERSHIP</b></td>
-    <td style="padding: 10px 0; color: #34495e;">Agile Product Ownership (PO), Business Acquisition, Global Team Management</td>
+    <td style="padding: 10px 0; color: #34495e;">Product Ownership (PO), Business Acquisition, Global Management</td>
   </tr>
 </table>
 
