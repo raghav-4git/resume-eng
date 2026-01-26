@@ -34,7 +34,7 @@
 ### **Robert Bosch LLC | Plymouth, MI, USA**
 **Technical Expert – Global Face of Bosch SW for Honda NA** | *April 2024 – Present*
 
-* **Strategic Global Governance:** Serve as the definitive **"Face of Bosch SW"** for Honda North America. Command multi-national stakeholder management to align high-complexity software roadmaps with OEM strategic milestones.
+* **Strategic Global Governance:** Serve as the definitive **"Face of Bosch SW"** for Honda North America. Command multi-national stakeholder management to align high-complexity software roadmaps with OEM strategic timelines.
 * **End-to-End System Interface:** Orchestrate critical technical synchronizations between **Software R&D, System Design, EPS Gear Production Plants, and Vehicle Validation teams**.
 * **Operational & Fiscal Excellence:** Directed international regional operations with elite efficiency, significantly reducing overhead and operational costs while simultaneously enhancing global product quality and delivery speed.
 * **High-Stakes Problem Solving:** Lead critical troubleshooting and root-cause analysis to protect product development timelines, ensuring robust quality and cost-efficiency.
@@ -84,7 +84,7 @@
 
 ## <span style="color:#1a237e;">█</span> EDUCATION
 * **B.Tech in Electrical and Electronics Engineering**
-  *SASTRA University, Thanjavur, India*
+  *SASTRA University, Thanjavur, Tamil Nadu, India*
 
 ---
 
