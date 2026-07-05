@@ -24,7 +24,7 @@
 
 ## <span style="color:#1a237e;">█</span> EXECUTIVE PROFILE
 <blockquote style="border-left: 6px solid #1a237e; background-color: #f8f9fa; padding: 20px; font-size: 1.1em;">
-<span style="color:#000000;"><b>Strategic Global Engineering Leader</b> with 12+ years of technical excellence at <b>Robert Bosch</b>. A recognized authority in <b>EPS Control Logic</b> and <b>ADAS</b>, specialized in bridging the gap between deep R&D and global commercial deployment. Proven track record of architecting safety-critical systems from "zero-to-one," securing multi-million dollar business acquisitions, and serving as the primary software interface for world-class OEMs including Honda, Toyota, and Nissan.</span>
+<span style="color:#000000;"><b>Strategic Global Engineering Leader</b> with 12+ years of technical excellence at <b>Robert Bosch</b>. Subject matter expert in <b>EPS Control Logic</b> and <b>ADAS</b>, specialized in bridging the gap between deep R&D and global commercial deployment. Proven track record of architecting safety-critical systems from the ground up, providing critical technical leadership to secure multi-million dollar business acquisitions, and serving as the primary software interface for world-class OEMs including Honda, Toyota, and Nissan.</span>
 </blockquote>
 
 ---
