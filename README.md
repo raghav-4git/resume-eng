@@ -83,7 +83,7 @@
 ---
 
 ## <span style="color:#1a237e;">█</span> EDUCATION
-* **Bachelor's in Electrical and Electronics Engineering,**
+* **Bachelor in Electrical's in Electrical and Electronics Engineering**
   *SASTRA University, Thanjavur, Tamil Nadu, India*
 
 ---
