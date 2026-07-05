@@ -36,7 +36,6 @@
 
 * **Strategic Global Governance:** Serve as the primary software interface for Honda North America, managing multi-national stakeholders to align complex software roadmaps with OEM strategic timelines.
 * **End-to-End System Interface:** Orchestrate technical synchronization across software R&D, system design, EPS gear production plants, and vehicle validation teams.
-* **Operational Scaling:** Expanded the JOEM CIT account from 2 to 8 concurrent projects by scaling engineering headcount from 2 to 5. Optimized test platforms by introducing cross-program reusability, eliminating redundant testing efforts.
 * **Critical Problem Solving:** Lead root-cause analysis and troubleshooting to protect product development timelines, ensuring robust quality and cost-efficiency.
 * **Customer Relationship Management:** Transformed the Bosch-Honda partnership, accelerating feature-to-market delivery and increasing client satisfaction through proactive requirement management.
 * **Client Trust:** Secured expanded project scopes and sustained positive year-end feedback from Honda leadership due to consistent technical diplomacy and responsive issue resolution.
@@ -54,6 +53,7 @@
 **Global SW Test Lead & EPS Specialist** | *2011 – 2017*
 
 * **Validation Architecture:** Spearheaded Software-In-the-Loop (SiL) validation frameworks for complete EPS software and customer-specific applications for Honda, Toyota, and Nissan programs.
+* **Operational Scaling:** Expanded the JOEM CIT account from 2 to 8 concurrent projects by scaling engineering headcount from 2 to 5. Optimized test platforms by introducing cross-program reusability, eliminating redundant testing efforts.
 * **Germany Deployment (2017):** Stationed in Schwäbisch Gmünd to engineer and deploy the advanced steering software validation environment for Honda-specific programs.
 * **Global Leadership:** Orchestrated multi-national test teams ensuring 100% compliance with ISO 26262 and ASPICE safety standards.
 
