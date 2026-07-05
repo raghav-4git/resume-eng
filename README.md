@@ -37,7 +37,7 @@
 * **Strategic Global Governance:** Serve as the primary software interface for Honda North America, managing multi-national stakeholders to align complex software roadmaps with OEM strategic timelines.
 * **End-to-End System Interface:** Orchestrate technical synchronization across software R&D, system design, EPS gear production plants, and vehicle validation teams.
 * **Critical Problem Solving:** Lead root-cause analysis and troubleshooting to protect product development timelines, ensuring robust quality and cost-efficiency.
-* **Customer Relationship Management:** Elevated the Bosch-Honda relationship into a strategic partnership, accelerating deliveries and increasing client satisfaction through proactive customer engagement.
+* **Customer Relationship Management:** Elevated the Honda - Bosch Sys-SW relationship into a strategic partnership, enhancing quality of deliveries and increasing client satisfaction through proactive customer engagement.
 * **Client Trust:** Secured expanded project scopes and sustained positive year-end feedback from Honda leadership due to consistent technical diplomacy and responsive issue resolution.
 
 ### **Robert Bosch Automotive Steering | Japan & India**
